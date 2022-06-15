@@ -1,0 +1,43 @@
+{
+  "employee": [
+    {
+      "marry": false,
+      "name": "nagehswar",
+      "age": "20",
+      "address": "up",
+      "dept": "IT",
+      "salary": "200000",
+      "id": 1
+    },
+    {
+      "marry": true,
+      "name": "sangam",
+      "age": "23",
+      "address": "Kangra",
+      "dept": "HR",
+      "salary": "100000",
+      "id": 2
+    },
+    {
+      "marry": true,
+      "dept": "HR",
+      "name": "Test1",
+      "age": "23",
+      "address": "Test",
+      "salary": "1312331",
+      "id": 3
+    }
+  ],
+  "todos": [
+    {
+      "value": "bholu",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "value": "sangam",
+      "completed": false,
+      "id": 2
+    }
+  ]
+}
